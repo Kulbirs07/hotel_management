@@ -39,7 +39,6 @@ working on it.
 ![6](https://github.com/user-attachments/assets/4d902f9f-7e57-4df0-89c4-98897f9fdfaf)
 
 
-***NOTE : Please read installation and execution steps present at the bottom before downloading. Thank you***
 
 ### How To Run The Project?
 
