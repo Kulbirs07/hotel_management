@@ -17,24 +17,26 @@ working on it.
 
 
 ### CUSTOMER FLOW CHART
-![Alt text](Screenshots/Flowchart_customer.png?raw=true "Title")
+![1](https://github.com/user-attachments/assets/6c8f2642-005a-446e-8e56-ecc65edcae73)
+
 
 ### ADMIN FLOW CHART
-![Alt text](Screenshots/Flowchart_admin.png?raw=true "Title")
+![2](https://github.com/user-attachments/assets/df2197c0-c6d5-4b36-b984-e804a03c2438)
+
 
 ## ScreenShots
 
 ### HOME PAGE
-![Alt text](Screenshots/customer1.png?raw=true "Title")
+![3](https://github.com/user-attachments/assets/9588c65b-2737-4b36-9af2-25baef610bc2)
 
-![Alt text](Screenshots/customer2.png?raw=true "Title")
+![4](https://github.com/user-attachments/assets/d1311f6b-660b-4e8a-a83f-6514b2124d65)
 
 ### CUSTOMER PAGE
-![Alt text](Screenshots/customer3.png?raw=true "Title")
+![5](https://github.com/user-attachments/assets/47c2e77d-0527-4c4a-a1eb-a9447ed7e9d7)
+
 
 ### ADMIN PAGE
-![Alt text](Screenshots/admin1.png?raw=true "Title")
-
+![6](https://github.com/user-attachments/assets/4d902f9f-7e57-4df0-89c4-98897f9fdfaf)
 
 
 ***NOTE : Please read installation and execution steps present at the bottom before downloading. Thank you***
